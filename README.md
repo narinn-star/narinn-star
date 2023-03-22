@@ -4,8 +4,8 @@
 ## Project 
 ✔ [2023.01 ~ 2023.02] [Paiary](https://github.com/Graduation-23/front)  다이어리와 가계부를 한 번에! <br>
 ✔ [2023.01] [MEGATHON_Mega OS](https://github.com/inje-megabrain/Mos-fe)  DSM의 일종 <br>
-✔ [2022.10 ~ 2023.12] [Bapsim](https://github.com/CapstoneDesign-Plus/CapstoneDesign2022)  QR코드를 이용한 학식 구매 전산화 시스템 <br>
-✔ [2021.10 ~ 2023.12] [InjeICM](https://github.com/LuxuryJava/InjeClassManager)  Java GUI_강의실 예약 및 조회, 개방/잠금 프로그램 <br>
+✔ [2022.10 ~ 2022.12] [Bapsim](https://github.com/CapstoneDesign-Plus/CapstoneDesign2022)  QR코드를 이용한 학식 구매 전산화 시스템 <br>
+✔ [2021.10 ~ 2021.12] [InjeICM](https://github.com/LuxuryJava/InjeClassManager)  Java GUI_강의실 예약 및 조회, 개방/잠금 프로그램 <br>
 
 <br>
 
