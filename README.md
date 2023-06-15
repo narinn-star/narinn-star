@@ -32,9 +32,10 @@
 
 
 ## 📚 Cards 📚
-![narinn-star GitHub stats](https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark) <br>
+[![narinn-star GitHub stats](https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark)] <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gp_9716)](https://solved.ac/gp_9716) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact) <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact)] <br><br>
+
 
 ## 📬 Contacts 📬
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skfls2727@gmail.com)](mailto:skfls2727@gmail.com)
