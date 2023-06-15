@@ -33,8 +33,7 @@
 
 ## 📚 Cards 📚
 ![narinn-star GitHub stats](https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark) <br>
-<img src="https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark" crossOrigin="anonymous"
-              referrerPolicy="no-referrer"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark" crossOrigin="anonymous"><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gp_9716)](https://solved.ac/gp_9716) 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gp_9716"><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact) <br>
