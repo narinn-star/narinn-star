@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=bbdefb&height=100&section=header&text=Narin's%20World&animation=fadeIn&fontSize=40&fontColor=9a84ce) -->
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnarinn-star&count_bg=%2357B5FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Project 
@@ -33,23 +33,10 @@
 
 ## 📚 Cards 📚
 ![narinn-star GitHub stats](https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark) <br>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark" alt="?" referrerPolicy="no-referrer"><br> -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gp_9716)](https://solved.ac/gp_9716) 
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gp_9716"><br> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact) <br>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact"> <br><br> -->
 
 
 ## 📬 Contacts 📬
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skfls2727@gmail.com)](mailto:skfls2727@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:skfls2618@naver.com)](mailto:skfls2618@naver.com)
-
-
-<!--
-<div align="center">
-  <a href="instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-</div>
--->
-
-<!-- ### Hi there 👋-->
-
