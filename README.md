@@ -15,7 +15,6 @@
 ✔ [2023.10 ~ 2023.12] [Modern JavaScript Deep Dive](https://github.com/narinn-star/Javascript-Deep-Dive-Study) 스터디 진행 <br>
 ✔ [2023.07 ~ 2023.08] NEXTERS 23기 FrontEnd 개발자 이수 <br>
 ✔ [2022.07 ~ 2022.09] CJ대한통운 미래기술 챌린지 2022 과제2 본선 <br>
-✔ [2021.07 ~ 2021.10] [AlgoStudy](https://github.com/h0thaji/injeAlgoStudy) 진행
 
 <br>
 
