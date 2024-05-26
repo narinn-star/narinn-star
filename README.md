@@ -36,7 +36,7 @@
 ## 📚 Cards 📚
 ![narinn-star GitHub stats](https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark) <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gp_9716)](https://solved.ac/gp_9716) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact&hide=ASP.NET,C%2b%2b,C,C%23)](https://github.com/narinn-star/github-readme-stats)<br>
 
 
 ## 📬 Contacts 📬
