@@ -2,6 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnarinn-star&count_bg=%2357B5FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Project 
+✔ [2024.06 ~ ] [SPURT_v2](https://github.com/narinn-star/Spurt_v2) SPURT v2 <br>
 ✔ [2023.07 ~ 2023.12] [SPURT](https://github.com/Nexters/Spurt)  면접준비, SPURT와 함께! <br>
 ✔ [2023.06 ~ 2023.09] [PickReadme](https://github.com/inje-megabrain/Pick_Read_Me-fe)  ReadMe.md파일 뽐내기 <br>
 ✔ [2023.01 ~ 2023.02] [Paiary](https://github.com/Graduation-23/front)  다이어리와 가계부를 한 번에! <br>
