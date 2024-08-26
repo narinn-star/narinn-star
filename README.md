@@ -25,18 +25,24 @@
 ✔ [2020.03 ~ 2023.02] 인제대학교 컴퓨터공학부 학생회 <br>
 ✔ [2019.02] 울산외국어고등학교 러시아어과 졸업 (7기) -->
 
+## Certificates
+✔ [2024.06] 정보처리기사 <br>
+
 ## Tech Stack 
 #### Used as the Main
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next)](https://skillicons.dev)
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> -->
 #### Used at least Once
-[![My Skills](https://skillicons.dev/icons?i=html,css,dart,flutter,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,dart,flutter,java)](https://skillicons.dev)
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> -->
+#### Collaboration Tools
+[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev)
 
 ## Cards 
 <!-- ![narinn-star GitHub stats](https://github-readme-stats.vercel.app/api?username=narinn-star&show_icons=true&theme=dark) <br> -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gp_9716)](https://solved.ac/gp_9716) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinn-star&layout=compact&hide=ASP.NET,C%2b%2b,C,C%23,CMAKE,PYTHON)](https://github.com/narinn-star/github-readme-stats)<br>
+
 
 <!-- ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skfls2727@gmail.com)](mailto:skfls2727@gmail.com)
