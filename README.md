@@ -1,5 +1,5 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnarinn-star&count_bg=%2357B5FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnarinn-star&count_bg=%2357B5FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ## Project 
 ✔ [2025.01 ~ 2025.02] [Ziine](https://github.com/Nexters/ziine-web) 대학생 및 무명 작가들을 위한 미술품 큐레이션 서비스, Ziine <br> 
